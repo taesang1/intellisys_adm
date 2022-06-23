@@ -1,7 +1,10 @@
 # API 초기 세팅
 pip install fastapi
+
 pip install uvicorn
+
 pip install pymysql
+
 pip install python-dotenv
 
 .env 파일생성후 db 정보 입력 (host, user, password, db)
