@@ -37,10 +37,10 @@
             <a>blog 관리</a>
             <ul>
                 <li>
-                    <a>조회</a>
+                    <router-link style="text-decoration: none; color: black;" to="/blog_list">조회</router-link>
                 </li>
                 <li>
-                    <a>작성</a>
+                    <router-link style="text-decoration: none; color: black;" to="/blog_write">작성</router-link>
                 </li>
             </ul>
         </li>
